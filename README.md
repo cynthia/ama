@@ -12,7 +12,7 @@ terms would potentially help the audience to go home and dig into the topic furt
 
 These are topics that have been requested so far, in chronological request order.
 
-1. [Game Theory Basics](/game-theory): Basic game theory and what a Nash Equilibrium is.
+1. [Game Theory](/game-theory): Introduction to game theory.
 2. [Complexity](/complexity): Gentle introduction to computational complexity theory, with examples of common algorithms and it's O complexity.
 3. [Transistors, Logic Gates, and ALUs](/transistor-logic): Logic gates with transistors - the most basic building block of modern computing.
 4. [The History of the Web](/web-history): The history of the world wide web.
