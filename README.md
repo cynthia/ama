@@ -14,8 +14,8 @@ These are topics that have been requested so far, in chronological request order
 
 1. [Game Theory Basics](/game-theory): Basic game theory and what a Nash Equilibrium is.
 2. [Complexity](/complexity): Gentle introduction to computational complexity theory, with examples of common algorithms and it's O complexity.
-3. [transistor-logic](/transistor-logic): Logic gates with transistors - the most basic building block of modern computing.
-4. [web-history](/web-history): The history of the world wide web.
+3. [Transistors, Logic Gates, and ALUs](/transistor-logic): Logic gates with transistors - the most basic building block of modern computing.
+4. [The History of the Web](/web-history): The history of the world wide web.
 5. [Locks](/locks): What locks (in programming) are, how to use them, and when and not to use them.
 
 The notes used for each talk will be shared in the individual topic folder, after
