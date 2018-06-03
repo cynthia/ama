@@ -48,8 +48,7 @@ requested topic - that will most likely get rejected.
 
 # License
 
-This material is distributed under the [Creative Commons Attribution-NonCommercial 4.0 International Public License]
-(https://creativecommons.org/licenses/by-nc/4.0/). For commercial use, please contact
+This material is distributed under the [Creative Commons Attribution-NonCommercial 4.0 International Public License](https://creativecommons.org/licenses/by-nc/4.0/). For commercial use, please contact
 me privately. (I'm generally permissive, so given that the clause is reasonable it
 most likely will not cost you anything. The non-commercial clause is to prevent abuse
 from certain bad players that come to mind.)
